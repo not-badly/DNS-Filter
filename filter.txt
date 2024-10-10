@@ -1,1 +1,12 @@
-
+||da.netease.com^
+||mam.netease.com^
+||pr.nss.netease.com^
+||vmonitor.ws.netease.com^
+||advert.lx.netease.com^
+||analytics.hz.netease.com^
+||statis.push.netease.com^
+||yt-adv.bn.netease.com^
+||mam6.netease.com^
+||httpdns-sdk.n.netease.com^
+||httpdns.n.netease.com^
+||nstool.netease.com^
